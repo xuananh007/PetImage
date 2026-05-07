@@ -1,2 +1,2 @@
-//Save iamges of Pet
+image//Save iamges of Pet
 //Dogs and Cats
